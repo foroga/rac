@@ -1,0 +1,29 @@
+es:
+  layouts:
+    _navigation:
+      editaccount: 'Editar cuenta'
+      signout: 'Salir'
+      signin: 'Iniciar sesión'
+      signup: 'Registrarse'
+      users: 'Usuarios'
+      home: 'Inicio'
+  devise:
+    sessions:
+      Signin: 'Iniciar sesión'
+      Signup: 'Registrarse'
+      Forgotpass: '¿Recordar contraseña?'
+      Rememberme: 'Recordarlo'
+    registrations:
+      Edituser: 'Editar usuario'
+      enterpassword: 'Introduce tu password actual para hacer los cambios.'
+      nochangepassword: 'Deja estos campos en blanco si no quieres cambiar tu password.'
+      Name: 'Nombre'
+      Passwordconfirmation: 'Confirmación de password'
+      Passwordcurrent: 'Password actual'
+      Update: 'Guardar'
+      Signup: 'Registro'
+      Save: 'Registrarse'
+      Cancel: 'Cancelar Cuenta'
+      Yougo: 'Insatisfecho? Nos apena que se vaya'
+      Cancelmy: 'Cancela mi cuenta'
+

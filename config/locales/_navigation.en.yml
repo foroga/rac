@@ -1,0 +1,28 @@
+en:
+  layouts:
+    _navigation:
+      editaccount: 'Edit account'
+      signout: 'Sign out'
+      signin: 'Sign in'
+      signup: 'Sign up'
+      home: 'Home'
+  devise:
+    sessions:
+      Signin: 'Sign in'
+      Signup: 'Sign up'
+      Forgotpass: 'Forgot password?'
+      Rememberme: 'Remember me'
+    registrations:
+      Edituser: 'Edit User'
+      enterpassword: 'You must enter your current password to make changes.'
+      nochangepassword: 'Leave these fields blank if you dont want to change your password.'
+      Name: 'Name'
+      Passwordconfirmation: 'Password confirmation'
+      Passwordcurrent: 'Current password'
+      Update: 'Update'
+      Signup: 'Sign up'
+      Save: 'Sign up'
+      Cancel: 'Cancel Account'
+      Yougo: "Unhappy? We'll be sad to see you go."
+      Cancelmy: 'Cancel my account'
+

@@ -1,0 +1,10 @@
+es:
+  registered: 
+    one: 'uno registrado'
+    other: '%{count} registrados'
+  Users:
+    one: 'Usuario'
+    other: 'Usuarios'
+  Welcome: 'Bienvenido'
+  Areyousure: 'Confirmar?'
+

@@ -13,6 +13,12 @@
       <%= render 'layouts/navigation' %>
     </header>
     <main role="main">
+				<p>
+				<%= link_to_unless I18n.locale == :en, "English", locale: :en %>
+				|
+				<%= link_to_unless I18n.locale == :es, "Español", locale: :es %>
+				</p>
+
        <%= render 'layouts/messages' %>
        <%= yield %>
     </main>

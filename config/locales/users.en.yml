@@ -1,0 +1,14 @@
+en:
+  users:
+    _user:
+      ChangeRole: 'Change Role'
+      DeleteUser: 'Delete User'
+      Admin: 'Admin'
+      Vip: 'Vip'
+      User: 'Usuario'
+  controller:
+    denied: 'Access denied.'
+    updated: 'User updated.'
+    noupdated: 'Unable to update user.'
+    deleted: 'User deleted.'
+

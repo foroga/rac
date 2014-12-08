@@ -20,4 +20,12 @@
 # available at http://guides.rubyonrails.org/i18n.html.
 
 en:
-  hello: "Hello world"
+  registered: 
+    one: 'one registered'
+    other: '%{count} registered' 
+  Users:
+    one: 'User'
+    other: 'Users'
+  Welcome: "Welcome"
+  Areyousure: 'Are you sure?'
+

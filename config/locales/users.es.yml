@@ -1,0 +1,13 @@
+es:
+  users: 
+    _user:
+      ChangeRole: 'Cambiar Perfil'
+      DeleteUser: 'Borrar Usuario'
+      Admin: 'Administrar'
+      Vip: 'Vip'
+      User: 'Usuario'
+  controller:
+    denied: 'Acceso denegado.'
+    updated: 'Usuario actualizado.'
+    noupdated: 'Imposible actualizar usuario.'
+    deleted: 'Usuario borrado.'
