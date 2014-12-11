@@ -17,9 +17,6 @@ es:
       Edituser: 'Editar usuario'
       enterpassword: 'Introduce tu password actual para hacer los cambios.'
       nochangepassword: 'Deja estos campos en blanco si no quieres cambiar tu password.'
-      Nickname: 'Apodo'
-      Name: 'Nombre'
-      Surname: 'Nombre'
       Passwordconfirmation: 'Confirmación de password'
       Passwordcurrent: 'Password actual'
       Update: 'Guardar'
@@ -28,7 +25,16 @@ es:
       Cancel: 'Cancelar Cuenta'
       Yougo: 'Insatisfecho? Nos apena que se vaya'
       Cancelmy: 'Cancela mi cuenta'
-  users: 
+  users:
+    f:
+      Nickname: 'Apodo'
+      Name: 'Nombre'
+      Surname: 'Apellidos'    
+      Active: 'Activo'
+      Unit: 'Unidad'
+      Role: 'Rol'
+      Telephone: 'Teléfono'
+      Note: 'Nota'	
     _user:
       ChangeRole: 'Cambiar Perfil'
       DeleteUser: 'Borrar Usuario'
