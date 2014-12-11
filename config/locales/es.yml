@@ -7,4 +7,21 @@ es:
     other: 'Usuarios'
   Welcome: 'Bienvenido'
   Areyousure: 'Confirmar?'
-
+  activerecord:
+    errors:
+      models:
+        user:
+          attributes:
+            password_confirmation:
+              confirmation: 'no coincide'
+            password:
+              too_short: 'demasiado corta (6 minimo)'
+            current_password:
+              blank: 'debe ser introducida'
+              invalid: 'inválida'
+            confirmation_token:
+              invalid: 'token inválido'
+              blank: 'el token no puede ser blanco'
+  errors:
+    messages:
+      not_saved: 'Registro no guardado'

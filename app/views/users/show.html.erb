@@ -1,3 +1,10 @@
 <h3><%=t('Users.one')%></h3>
-<p>Name: <%= @user.name if @user.name %></p>
-<p>Email: <%= @user.email if @user.email %></p>
+<p><%=t('Nickname')%>: <%= @user.nickname if @user.nickname %></p>
+<p><%=t('Name')%>: <%= @user.name if @user.name %></p>
+<p><%=t('Surname')%>: <%= @user.surname if @user.surname %></p>
+<p><%=t('Email')%>: <%= @user.email if @user.email %></p>
+<p><%=t('Active')%>: <%= @user.active if @user.active %></p>
+<p><%=t('Unit')%>: <%= @user.unit_id if @user.unit_id %></p>
+<p><%=t('Role')%>: <%= @user.role if @user.role %></p>
+<p><%=t('Telephone')%>: <%= @user.telephone if @user.telephone %></p>
+<p><%=t('Note')%>: <%= @user.note if @user.note %></p>

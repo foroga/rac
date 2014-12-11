@@ -16,7 +16,9 @@ en:
       Edituser: 'Edit User'
       enterpassword: 'You must enter your current password to make changes.'
       nochangepassword: 'Leave these fields blank if you dont want to change your password.'
+      Nickname: 'Nickname'
       Name: 'Name'
+      Surname: 'Surname'
       Passwordconfirmation: 'Password confirmation'
       Passwordcurrent: 'Current password'
       Update: 'Update'
@@ -25,4 +27,11 @@ en:
       Cancel: 'Cancel Account'
       Yougo: "Unhappy? We'll be sad to see you go."
       Cancelmy: 'Cancel my account'
+  users:
+    _user:
+      ChangeRole: 'Change Role'
+      DeleteUser: 'Delete User'
+      Admin: 'Admin'
+      Vip: 'Vip'
+      User: 'Usuario'
 
